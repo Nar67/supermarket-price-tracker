@@ -1,2 +1,19 @@
-# supermarket-price-tracker
-Tracks price of products from supermarkets
+# SuperMarket Price Tracker
+
+Just tracking some prices.
+
+
+
+# Build
+
+
+```
+docker-compose build
+```
+
+
+# Run
+
+```
+docker-compose up
+```
